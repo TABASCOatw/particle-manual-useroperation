@@ -19,8 +19,6 @@ The Particle Omnichain Paymaster is Particle Network's in-house paymaster capabl
 
 ##
 
-![Demo screenshot](https://i.imgur.com/1YY24h7.png)
-
 👉 Try Particle Network's Smart Wallet-as-a-Service: https://core-demo.particle.network
 
 👉 Learn more about Particle Network: https://particle.network
